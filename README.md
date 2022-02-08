@@ -1,2 +1,2 @@
-# ml-dl-1st-assignment
+# ml-dl-assignment
 first assignment
